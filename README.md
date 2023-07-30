@@ -41,7 +41,7 @@ Tools/Software which are consistently being updated are not going to be in one o
 - [Tilemapstudio](https://github.com/Rangi42/tilemap-studio) a tilemap editor for Game Boy, GBC, GBA, NDS, SNES, Genesis, or TG16 projects
 
 ##### Scripts
-- strip_events.py (see contents of repo)
+- strip_events.py (see contents of repo) removes all events in all maps
 
 ##### Tutorials
 - [pret/pokeemerald](https://github.com/pret/pokeemerald/wiki)
