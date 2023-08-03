@@ -38,6 +38,7 @@ Tools/Software which are consistently being updated are not going to be in one o
 - [Poryscript](https://github.com/huderlem/poryscript) a tool for event scripting
 - [Porytiles](https://github.com/grunt-lucas/porytiles) a Overworld tileset compiler
 - [Porymon](https://github.com/CallmeEchoo/porymon) a tool for adding new Pokemon
+- [Porydelete](https://github.com/Voluptua/porydelete) a tool for deleting unused content and for helping you to get things organized like maps and more
 - [Tilemapstudio](https://github.com/Rangi42/tilemap-studio) a tilemap editor for Game Boy, GBC, GBA, NDS, SNES, Genesis, or TG16 projects
 
 ##### Scripts
